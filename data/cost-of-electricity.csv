@@ -1,0 +1,22 @@
+Type,US-EIA,US-NREL,$/MWh,CF
+Coal power,"$4,074","$3,075-5,542",,
+Coal with 90% Carbon capture,"$6,495-6,625",,,
+Natural gas,"$922-2,630","$922–2,630",,
+Combined-cycle,"$1,062-1,201",,,
+Combined-cycle with 90% Carbon capture,"$2,736-2,845",,,
+Internal combustion engine,"$2,018",,,
+"turbine, aeroderivative","$1,294",,,
+Turbine (industrial),$785,,,
+Nuclear,"$6,695-7,547","$7,442-7,989",$81–82,94%
+Wind power,"$1,718","$1,462",$27–75,18-48%
+"Wind, offshore","$4,833-6,041","$3,285-5,908",$67–146,29-52%
+Distributed generation (wind),"$1,731-2,079","$2,275-5,803",$32–219,11-52%
+Solar thermal,"$7,895","$6,505",$76–97,49-63%
+Solar photovoltaic,"$1,327","$1,333-2,743",$31–146,12-30%
+Solar PV with storage,"$1,748","$2,044",$53–81,20-31%
+Battery storage,"$1,316","$988–4,774",,8-42%
+Fuel cells,"$6,639-7,224",,,
+Pumped-storage hydroelectricity,,"$1,999-5,505",,
+Hydropower (conventional),"$3,083","$2,574-16,283",$60–366,31-66%
+Biomass,"$4,524","$4,416",$144,64%
+Geothermal power,"$3,076","$6,753-46,223",$55–396,80-90%

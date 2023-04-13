@@ -1,0 +1,13 @@
+Technology,Min.,Median,Max.
+Coal-PC,740,820,910
+Gas-combined cycle,410,490,650
+Biomass - Dedicated,130,230,420
+Solar PV - Utility scale,18,48,180
+Solar PV - rooftop,26,41,60
+Geothermal,6.0,38,79
+Concentrated solar power,8.8,27,63
+Hydropower,1.0,24,22001
+Wind Offshore,8.0,12,35
+Nuclear,3.7,12,110
+Wind Onshore,7.0,11,56
+Ocean (Tidal and wave),5.6,17,28

@@ -1,0 +1,13 @@
+Type,"IPCC 2014 (at 5% discount rate)",IRENA 2020,Lazard 2021,"NEA 2020
+(at 7% discount rate)",BNEF 2021
+"PV (utility, fixed-axis)",110,68,28-41,56,39
+"PV (utility, tracking)",-,-,-,-,47
+PV (residential),150,164,147-221,126,-
+Solar (thermal),150,182,126-156,121,-
+Wind onshore,59,53,26-50,50,41
+Wind offshore,120,115,83,88,79
+Nuclear (LTO),65,-,131-204,69,-
+Hydro,22,47,-,68,-
+Geothermal,60,73,56-93,99,-
+Coal (CC),61,-,65-152,88 (110),-
+Gas CC (Peak),71,-,45-74,71,-
